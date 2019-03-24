@@ -1,0 +1,1 @@
+python deep_photostyle.py --content_image_path in.jpg --style_image_path tar.jpg --content_seg_path in-seg.jpg --style_seg_path tar-seg.jpg --style_option 2
