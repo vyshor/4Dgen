@@ -1,0 +1,2 @@
+python run_image_captioning.py --image_path hut.jpg
+--image_url <url>

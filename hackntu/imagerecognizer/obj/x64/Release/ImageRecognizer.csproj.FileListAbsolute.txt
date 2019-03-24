@@ -1,0 +1,5 @@
+C:\workspace\ImageRecognizer\bin\Release\VisualRecognition.dll
+C:\workspace\ImageRecognizer\bin\Release\VisualRecognition.pdb
+C:\workspace\ImageRecognizer\ImageRecognizer\obj\x64\Release\ImageRecognizer.csprojResolveAssemblyReference.cache
+C:\workspace\ImageRecognizer\ImageRecognizer\obj\x64\Release\VisualRecognition.dll
+C:\workspace\ImageRecognizer\ImageRecognizer\obj\x64\Release\VisualRecognition.pdb
